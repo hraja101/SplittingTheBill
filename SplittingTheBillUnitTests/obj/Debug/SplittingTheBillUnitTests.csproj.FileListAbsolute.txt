@@ -1,0 +1,11 @@
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/bin/Debug/SplittingTheBillUnitTests.dll
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/bin/Debug/SplittingTheBillUnitTests.pdb
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/bin/Debug/nunit.framework.dll
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/bin/Debug/SplittingTheBill.exe
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/bin/Debug/SplittingTheBill.pdb
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/bin/Debug/nunit.framework.xml
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/obj/Debug/SplittingTheBillUnitTests.csprojAssemblyReference.cache
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/obj/Debug/SplittingTheBillUnitTests.csproj.CoreCompileInputs.cache
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/obj/Debug/SplittingTheBillUnitTests.csproj.CopyComplete
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/obj/Debug/SplittingTheBillUnitTests.dll
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBillUnitTests/obj/Debug/SplittingTheBillUnitTests.pdb

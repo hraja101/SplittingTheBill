@@ -1,0 +1,6 @@
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBill/bin/Debug/SplittingTheBill.exe
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBill/bin/Debug/SplittingTheBill.pdb
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBill/obj/Debug/SplittingTheBill.csprojAssemblyReference.cache
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBill/obj/Debug/SplittingTheBill.csproj.CoreCompileInputs.cache
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBill/obj/Debug/SplittingTheBill.exe
+/home/harish/RiderProjects/SplittingTheBill/SplittingTheBill/obj/Debug/SplittingTheBill.pdb
